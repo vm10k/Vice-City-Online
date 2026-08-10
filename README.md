@@ -1,4 +1,4 @@
-<img width="1280" height="890" alt="image" src="https://github.com/user-attachments/assets/bf8e194b-82c0-4d3d-ac62-a3a36dde60f5" />
+<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/9611591b-8e29-41a7-a72a-91d924c0632c" />
 
 # Vice City & Liberty City Online: The Co-op Storyline Project
 
