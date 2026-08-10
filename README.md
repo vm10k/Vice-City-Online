@@ -1,6 +1,6 @@
 <img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/9611591b-8e29-41a7-a72a-91d924c0632c" />
 
-# Vice City & Liberty City Online: The Co-op Storyline Project
+# GTA Vice City & III Online: The Co-op Storyline Project
 
 This project brings a massive multiplayer cooperative experience to Grand Theft Auto: Vice City and Grand Theft Auto III. Built to run on the GTAC (Grand Theft Auto Connected) framework, these servers allow players to experience the original single-player storylines in a persistent, high-capacity online environment.
 
